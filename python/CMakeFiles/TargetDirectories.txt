@@ -1,0 +1,2 @@
+/home/pedro/deepLearning/3d-mscnn/python/CMakeFiles/edit_cache.dir
+/home/pedro/deepLearning/3d-mscnn/python/CMakeFiles/rebuild_cache.dir
